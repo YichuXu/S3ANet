@@ -1,13 +1,11 @@
 # Spatial–Spectral Self-Attention Learning Network for Defending Against Adversarial Attacks in Hyperspectral Image Classification
 
-PyTorch implementation of S³ANet for adversarial defenses in hyperspectral image classification.
+<!-- PROJECT SHIELDS -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![TGRS Page](https://img.shields.io/badge/TGRS-Paper-red)](https://ieeexplore.ieee.org/document/10478963)
+[![Stargazers](https://img.shields.io/github/stars/YichuXu/S3ANet.svg?style=flat-square)](https://github.com/YichuXu/S3ANet/stargazers)
+![GitHub issues](https://img.shields.io/github/issues/YichuXu/S3ANet?style=flat-square)
 
-</div>
-
-<div align="center">
-<a href='https://ieeexplore.ieee.org/document/10478963'><img src='https://img.shields.io/badge/TGRS-Paper-red'></a>
-
-</div>
 
 ## Requirements
 * Python 3.7.13
@@ -44,3 +42,9 @@ if you find it useful for your research, please consider giving this repo a ⭐ 
 
 ## Acknowledgments
 [SACNet](https://github.com/YonghaoXu/SACNet) &ensp; [FullyContNet](https://github.com/DotWang/FullyContNet) &ensp; [CCNet](https://github.com/speedinghzl/CCNet) &ensp;
+
+<!-- links -->
+[stars-shield]: https://img.shields.io/github/stars/YichuXu/S3ANet.svg?style=flat-square
+[stars-url]: https://github.com/YichuXu/S3ANet/stargazers
+
+
