@@ -37,5 +37,5 @@ if you find it useful for your research, please consider giving this repo a ⭐ 
 }
 ```
 
-## Thanks
+## Acknowledgments
 [SACNet](https://github.com/YonghaoXu/SACNet) &ensp; [FullyContNet](https://github.com/DotWang/FullyContNet) &ensp; [CCNet](https://github.com/speedinghzl/CCNet) &ensp;
