@@ -2,6 +2,13 @@
 
 PyTorch implementation of S³ANet for adversarial defenses in hyperspectral image classification.
 
+</div>
+
+<div align="center">
+<a href='https://ieeexplore.ieee.org/document/10478963'><img src='https://img.shields.io/badge/TGRS-Paper-red'></a>
+
+</div>
+
 ## Requirements
 * Python 3.7.13
 * Pytorch 1.12
@@ -22,8 +29,6 @@ PyTorch implementation of S³ANet for adversarial defenses in hyperspectral imag
   - `CUDA_VISIBLE_DEVICES=0 python GenAdvExample.py --model S3ANet --bins 1 2 3 6`
   
 ### Paper
-**[S³ANet: Spatial–Spectral Self-Attention Learning Network for Defending Against Adversarial Attacks in Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10478963)**
-
 if you find it useful for your research, please consider giving this repo a ⭐ and citing our paper! We appreciate your support！😊
 
 ```
